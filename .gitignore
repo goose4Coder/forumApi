@@ -1,3 +1,4 @@
 /env/
 /forumApi/forumApi/keys.py
 /forumApi/db.sqlite3
+/forumApi/media
